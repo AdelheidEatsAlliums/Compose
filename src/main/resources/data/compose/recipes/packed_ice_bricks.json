@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "compose_bricks",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:packed_ice"
+    }
+  },
+  "result": {
+    "item": "compose:packed_ice_bricks",
+    "count": 4
+  }
+}

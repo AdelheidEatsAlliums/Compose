@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "compose:block/rooted_dirt_bricks",
+    "top": "compose:block/rooted_dirt_bricks",
+    "side": "compose:block/rooted_dirt_bricks"
+  }
+}

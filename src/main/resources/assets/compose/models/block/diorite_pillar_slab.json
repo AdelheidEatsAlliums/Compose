@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "compose:block/diorite_pillar_top",
+    "side": "compose:block/diorite_pillar",
+    "top": "compose:block/diorite_pillar_top"
+  }
+}

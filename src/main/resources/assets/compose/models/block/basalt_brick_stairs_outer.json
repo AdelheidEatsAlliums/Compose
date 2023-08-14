@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "compose:block/basalt_bricks",
+    "top": "compose:block/basalt_bricks",
+    "side": "compose:block/basalt_bricks"
+  }
+}

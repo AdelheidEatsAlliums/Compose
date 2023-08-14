@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "compose:block/coarse_dirt_brick_slab"
+    },
+    "type=double": {
+      "model": "compose:block/coarse_dirt_bricks"
+    },
+    "type=top": {
+      "model": "compose:block/coarse_dirt_brick_slab_top"
+    }
+  }
+}

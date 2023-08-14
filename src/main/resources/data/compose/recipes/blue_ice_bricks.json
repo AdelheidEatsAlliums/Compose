@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "compose_bricks",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blue_ice"
+    }
+  },
+  "result": {
+    "item": "compose:blue_ice_bricks",
+    "count": 4
+  }
+}

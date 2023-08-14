@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "compose:block/crying_obsidian_bricks",
+    "top": "compose:block/crying_obsidian_bricks",
+    "side": "compose:block/crying_obsidian_bricks"
+  }
+}

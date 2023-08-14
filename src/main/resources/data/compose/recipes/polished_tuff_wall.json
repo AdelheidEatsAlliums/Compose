@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "compose:polished_tuff"
+    }
+  },
+  "pattern": [
+	"SSS",
+	"SSS"
+  ],
+  "result": {
+    "count": 6,
+    "item": "compose:polished_tuff_slab"
+  },
+  "show_notification": true
+}

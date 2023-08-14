@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "compose:block/sandstone_pillar_slab"
+    },
+    "type=double": {
+      "model": "compose:block/sandstone_pillar"
+    },
+    "type=top": {
+      "model": "compose:block/sandstone_pillar_slab_top"
+    }
+  }
+}

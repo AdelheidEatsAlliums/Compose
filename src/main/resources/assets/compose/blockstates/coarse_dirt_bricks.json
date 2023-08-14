@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "compose:block/coarse_dirt_bricks" }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "compose_bricks",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:smooth_red_sandstone"
+    }
+  },
+  "result": {
+    "item": "compose:red_sandstone_bricks",
+    "count": 4
+  }
+}

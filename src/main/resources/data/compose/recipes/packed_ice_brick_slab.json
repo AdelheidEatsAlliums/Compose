@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": {
+      "item": "compose:packed_ice_bricks"
+    }
+  },
+  "pattern": [
+	"SSS"
+  ],
+  "result": {
+    "count": 6,
+    "item": "compose:packed_ice_brick_slab"
+  },
+  "show_notification": true
+}

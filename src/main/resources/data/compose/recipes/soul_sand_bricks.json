@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "compose_bricks",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:soul_sand"
+    }
+  },
+  "result": {
+    "item": "compose:soul_sand_bricks",
+    "count": 4
+  }
+}

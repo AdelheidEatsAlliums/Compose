@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "compose:block/sandstone_bricks",
+    "top": "compose:block/sandstone_bricks",
+    "side": "compose:block/sandstone_bricks"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mossy_moss_bricks",
+  "ingredients": [
+    {
+      "item": "compose:calcite_bricks"
+    },
+    {
+      "item": "minecraft:moss_block"
+    }
+  ],
+  "result": {
+    "item": "compose:mossy_calcite_bricks"
+  }
+}

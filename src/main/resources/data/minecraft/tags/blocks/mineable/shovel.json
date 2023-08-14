@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "compose:dirt_bricks",
+    "compose:coarse_dirt_bricks",
+    "compose:rooted_dirt_bricks",
+    "compose:cracked_dirt_bricks",
+    "compose:cracked_coarse_dirt_bricks",
+    "compose:cracked_rooted_dirt_bricks",
+    "compose:cracked_dirt_bricks",
+    "compose:cracked_coarse_dirt_bricks",
+    "compose:cracked_rooted_dirt_bricks",
+    "compose:dirt_brick_stairs",
+    "compose:coarse_dirt_brick_stairs",
+    "compose:rooted_dirt_brick_stairs",
+    "compose:cracked_dirt_brick_stairs",
+    "compose:cracked_coarse_dirt_brick_stairs",
+    "compose:cracked_rooted_dirt_brick_stairs",
+    "compose:cracked_dirt_brick_stairs",
+    "compose:cracked_coarse_dirt_brick_stairs",
+    "compose:cracked_rooted_dirt_brick_stairs",
+    "compose:dirt_brick_slab",
+    "compose:coarse_dirt_brick_slab",
+    "compose:rooted_dirt_brick_slab",
+    "compose:cracked_dirt_brick_slab",
+    "compose:cracked_coarse_dirt_brick_slab",
+    "compose:cracked_rooted_dirt_brick_slab",
+    "compose:cracked_dirt_brick_slab",
+    "compose:cracked_coarse_dirt_brick_slab",
+    "compose:cracked_rooted_dirt_brick_slab"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "compose:block/deepslate_pillar_slab"
+    },
+    "type=double": {
+      "model": "compose:block/deepslate_pillar"
+    },
+    "type=top": {
+      "model": "compose:block/deepslate_pillar_slab_top"
+    }
+  }
+}

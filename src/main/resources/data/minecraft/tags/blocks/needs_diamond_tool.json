@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+	"compose:crying_obsidian_bricks",
+	"compose:obsidian_bricks",
+	"compose:crying_obsidian_brick_stairs",
+	"compose:obsidian_brick_stairs",
+	"compose:crying_obsidian_brick_slab",
+	"compose:obsidian_brick_slab"
+	]
+}

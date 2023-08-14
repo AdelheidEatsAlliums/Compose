@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "compose_bricks",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "compose:polished_dripstone"
+    }
+  },
+  "result": {
+    "item": "compose:dripstone_bricks",
+    "count": 4
+  }
+}

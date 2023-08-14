@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "compose_brick_stairs",
+  "pattern": [
+    "#  ",
+    "## ",
+	"###"
+  ],
+  "key": {
+    "#": {
+      "item": "compose:netherrack_bricks"
+    }
+  },
+  "result": {
+    "item": "compose:netherrack_brick_stairs",
+    "count": 6
+  }
+}

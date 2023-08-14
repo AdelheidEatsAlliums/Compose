@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "compose:block/dripstone_brick_slab"
+    },
+    "type=double": {
+      "model": "compose:block/dripstone_bricks"
+    },
+    "type=top": {
+      "model": "compose:block/dripstone_brick_slab_top"
+    }
+  }
+}

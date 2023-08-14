@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "compose:block/cobblestone_bricks" }
+  }
+}

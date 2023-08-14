@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "compose:polished_mud"
+    }
+  },
+  "pattern": [
+    "S  ",
+    "SS ",
+	"SSS"
+  ],
+  "result": {
+    "count": 6,
+    "item": "compose:polished_mud_stairs"
+  }
+}

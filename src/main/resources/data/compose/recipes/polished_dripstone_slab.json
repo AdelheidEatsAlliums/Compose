@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "compose:polished_dripstone"
+    }
+  },
+  "pattern": [
+	"SSS"
+  ],
+  "result": {
+    "count": 6,
+    "item": "compose:polished_dripstone_slab"
+  }
+}

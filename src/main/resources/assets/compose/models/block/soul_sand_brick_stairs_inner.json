@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "compose:block/soul_sand_bricks",
+    "top": "compose:block/soul_sand_bricks",
+    "side": "compose:block/soul_sand_bricks"
+  }
+}

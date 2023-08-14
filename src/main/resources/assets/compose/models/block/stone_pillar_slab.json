@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "compose:block/stone_pillar_top",
+    "side": "compose:block/stone_pillar",
+    "top": "compose:block/stone_pillar_top"
+  }
+}

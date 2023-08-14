@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "compose:block/coarse_dirt_bricks",
+    "top": "compose:block/coarse_dirt_bricks",
+    "side": "compose:block/coarse_dirt_bricks"
+  }
+}

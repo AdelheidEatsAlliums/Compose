@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "compose_bricks",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "compose:polished_calcite"
+    }
+  },
+  "result": {
+    "item": "compose:calcite_bricks",
+    "count": 4
+  }
+}

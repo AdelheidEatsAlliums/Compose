@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": {
+      "item": "minecraft:andesite"
+    }
+  },
+  "pattern": [
+	"SSS"
+  ],
+  "result": {
+    "count": 6,
+    "item": "compose:andesite_pillar_slab"
+  },
+  "show_notification": true
+}

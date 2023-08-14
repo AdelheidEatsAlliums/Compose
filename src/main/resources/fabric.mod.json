@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "compose",
+  "version": "${version}",
+
+  "name": "Compose",
+  "description": "A mod for your beautiful building composition.",
+  "authors": [
+    "AdelheidEatsAlliums -AKA MariaTheDodo"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/compose/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.adelheideatsalliums.compose.Compose"
+    ]
+  },
+  "mixins": [
+    "compose.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "fabric": "*",
+    "minecraft": "1.20.2-alpha.23.32.a",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": ""
+  }
+}

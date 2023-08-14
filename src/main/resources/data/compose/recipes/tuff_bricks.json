@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "compose_bricks",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "compose:polished_tuff"
+    }
+  },
+  "result": {
+    "item": "compose:tuff_bricks",
+    "count": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "compose:polished_prismarine"
+    }
+  },
+  "pattern": [
+	"SSS",
+	"SSS"
+  ],
+  "result": {
+    "count": 6,
+    "item": "compose:polished_prismarine_slab"
+  },
+  "show_notification": true
+}

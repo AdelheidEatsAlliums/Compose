@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": {
+      "item": "compose:mud_pillar"
+    }
+  },
+  "pattern": [
+	"SSS"
+  ],
+  "result": {
+    "count": 6,
+    "item": "compose:mud_pillar_slab"
+  },
+  "show_notification": true
+}

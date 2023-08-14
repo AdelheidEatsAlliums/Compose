@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "compose:block/andesite_bricks",
+    "side": "compose:block/andesite_bricks",
+    "top": "compose:block/andesite_bricks"
+  }
+}

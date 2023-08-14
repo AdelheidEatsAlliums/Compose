@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "compose:block/tuff_brick_slab"
+    },
+    "type=double": {
+      "model": "compose:block/tuff_bricks"
+    },
+    "type=top": {
+      "model": "compose:block/tuff_brick_slab_top"
+    }
+  }
+}

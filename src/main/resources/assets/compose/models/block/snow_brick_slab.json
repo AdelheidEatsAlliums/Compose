@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "compose:block/snow_bricks",
+    "side": "compose:block/snow_bricks",
+    "top": "compose:block/snow_bricks"
+  }
+}

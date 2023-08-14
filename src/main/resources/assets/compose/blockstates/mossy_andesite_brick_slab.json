@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "compose:block/mossy_andesite_brick_slab"
+    },
+    "type=double": {
+      "model": "compose:block/mossy_andesite_bricks"
+    },
+    "type=top": {
+      "model": "compose:block/mossy_andesite_brick_slab_top"
+    }
+  }
+}

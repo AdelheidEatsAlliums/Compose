@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "compose:tuff_bricks"
+  },
+  "result": "compose:tuff_bricks",
+  "experience": 0.1,
+  "cookingtime": 200
+}

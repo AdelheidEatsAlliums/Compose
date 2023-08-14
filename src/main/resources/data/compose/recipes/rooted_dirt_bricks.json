@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "compose_bricks",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:rooted_dirt"
+    }
+  },
+  "result": {
+    "item": "compose:rooted_dirt_bricks",
+    "count": 4
+  }
+}

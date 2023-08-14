@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "compose:polished_prismarine"
+    }
+  },
+  "pattern": [
+    "S  ",
+    "SS ",
+	"SSS"
+  ],
+  "result": {
+    "count": 6,
+    "item": "compose:polished_prismarine_stairs"
+  }
+}

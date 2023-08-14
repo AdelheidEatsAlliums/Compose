@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "compose:block/calcite_pillar_slab"
+    },
+    "type=double": {
+      "model": "compose:block/calcite_pillar"
+    },
+    "type=top": {
+      "model": "compose:block/calcite_pillar_slab_top"
+    }
+  }
+}

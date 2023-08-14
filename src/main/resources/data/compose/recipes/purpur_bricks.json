@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "compose_bricks",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:purpur_block"
+    }
+  },
+  "result": {
+    "item": "compose:purpur_bricks",
+    "count": 4
+  }
+}
