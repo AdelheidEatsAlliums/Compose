@@ -193,6 +193,8 @@
     "block.compose.cracked_tuff_brick_slab" : "Cracked Tuff Brick Slab",
     "block.compose.cracked_purpur_brick_slab" : "Cracked Purpur Brick Slab",
     "block.compose.cracked_coarse_dirt_brick_slab" : "Cracked Coarse Dirt Brick Slab",
-    "block.compose.cracked_rooted_dirt_brick_slab" : "Cracked Rooted Dirt Brick Slab"
+    "block.compose.cracked_rooted_dirt_brick_slab" : "Cracked Rooted Dirt Brick Slab",
+    "block.compose.dirt_slab" : "Dirt Slab",
+    "block.compose.grass_block_slab" : "Grass Block Slab"
 
 }

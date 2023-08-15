@@ -18,10 +18,13 @@
 
   "environment": "*",
   "entrypoints": {
+    "client": [
+      "net.adelheideatsalliums.compose.ComposeClient"
+    ],
     "main": [
       "net.adelheideatsalliums.compose.Compose"
     ]
-  },
+},
   "mixins": [
     "compose.mixins.json"
   ],

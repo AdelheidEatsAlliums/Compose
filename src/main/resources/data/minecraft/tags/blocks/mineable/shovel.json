@@ -27,6 +27,8 @@
     "compose:cracked_rooted_dirt_brick_slab",
     "compose:cracked_dirt_brick_slab",
     "compose:cracked_coarse_dirt_brick_slab",
-    "compose:cracked_rooted_dirt_brick_slab"
+    "compose:cracked_rooted_dirt_brick_slab",
+    "compose:dirt_slab",
+    "compose:grass_block_slab"
   ]
 }
